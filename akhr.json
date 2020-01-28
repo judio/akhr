@@ -21,8 +21,8 @@
     "sex": "女",
     "characteristic": "恢复友方单位生命，且不受部署数量限制，但再部署时间极长",
     "tags": [
-      "远程位",
-      "治疗"
+      "원거리",
+      "치료"
     ],
     "hidden": false,
     "name-en": "Lancet-2",
@@ -36,8 +36,8 @@
     "sex": "男",
     "characteristic": "能够阻挡一个敌人，且不受部署数量限制，但再部署时间极长",
     "tags": [
-      "近战位",
-      "支援"
+      "근거리",
+      "지원"
     ],
     "hidden": false,
     "name-en": "Castle-3",
@@ -51,8 +51,8 @@
     "sex": "女",
     "characteristic": "能够阻挡两个敌人",
     "tags": [
-      "近战位",
-      "新手"
+      "근거리",
+      "신입"
     ],
     "hidden": false,
     "name-en": "Yato",
@@ -66,8 +66,8 @@
     "sex": "女",
     "characteristic": "攻击造成法术伤害",
     "tags": [
-      "远程位",
-      "新手"
+      "원거리",
+      "신입"
     ],
     "hidden": false,
     "name-en": "Durin",
@@ -81,8 +81,8 @@
     "sex": "男",
     "characteristic": "攻击造成群体法术伤害",
     "tags": [
-      "远程位",
-      "新手"
+      "원거리",
+      "신입"
     ],
     "hidden": false,
     "name-en": "12F",
@@ -96,8 +96,8 @@
     "sex": "男",
     "characteristic": "优先攻击空中单位",
     "tags": [
-      "远程位",
-      "新手"
+      "원거리",
+      "신입"
     ],
     "hidden": false,
     "name-en": "Rangers",
@@ -111,8 +111,8 @@
     "sex": "男",
     "characteristic": "能够阻挡三个敌人",
     "tags": [
-      "近战位",
-      "新手"
+      "근거리",
+      "신입"
     ],
     "hidden": false,
     "name-en": "Noir Corne",
@@ -126,8 +126,8 @@
     "sex": "女",
     "characteristic": "能够阻挡两个敌人",
     "tags": [
-      "近战位",
-      "费用回复"
+      "근거리",
+      "비용회복"
     ],
     "hidden": false,
     "name-en": "Fang",
@@ -141,8 +141,8 @@
     "sex": "女",
     "characteristic": "能够阻挡两个敌人",
     "tags": [
-      "近战位",
-      "费用回复"
+      "근거리",
+      "비용회복"
     ],
     "hidden": false,
     "name-en": "Vanilla",
@@ -156,9 +156,9 @@
     "sex": "女",
     "characteristic": "击杀敌人后获得1点部署费用，撤退时返还初始部署费用",
     "tags": [
-      "近战位",
-      "输出",
-      "费用回复"
+      "근거리",
+      "딜링",
+      "비용회복"
     ],
     "hidden": false,
     "name-en": "Plume",
@@ -172,8 +172,8 @@
     "sex": "女",
     "characteristic": "恢复友方单位生命",
     "tags": [
-      "远程位",
-      "治疗"
+      "원거리",
+      "치료"
     ],
     "hidden": false,
     "name-en": "Hibiscus",
@@ -187,8 +187,8 @@
     "sex": "男",
     "characteristic": "恢复友方单位生命",
     "tags": [
-      "远程位",
-      "治疗"
+      "원거리",
+      "치료"
     ],
     "hidden": false,
     "name-en": "Ansel",
@@ -202,8 +202,8 @@
     "sex": "女",
     "characteristic": "攻击造成群体法术伤害",
     "tags": [
-      "远程位",
-      "群攻"
+      "원거리",
+      "광역"
     ],
     "hidden": false,
     "name-en": "Lava",
@@ -217,8 +217,8 @@
     "sex": "男",
     "characteristic": "攻击造成法术伤害",
     "tags": [
-      "远程位",
-      "输出"
+      "원거리",
+      "딜링"
     ],
     "hidden": false,
     "name-en": "Steward",
@@ -232,8 +232,8 @@
     "sex": "女",
     "characteristic": "优先攻击空中单位",
     "tags": [
-      "远程位",
-      "输出"
+      "원거리",
+      "딜링"
     ],
     "hidden": false,
     "name-en": "Kroos",
@@ -247,8 +247,8 @@
     "sex": "男",
     "characteristic": "优先攻击空中单位",
     "tags": [
-      "远程位",
-      "输出"
+      "원거리",
+      "딜링"
     ],
     "hidden": false,
     "name-en": "Adnachiel",
@@ -262,8 +262,8 @@
     "sex": "女",
     "characteristic": "攻击造成法术伤害，并对敌人造成短暂的停顿",
     "tags": [
-      "远程位",
-      "减速"
+      "원거리",
+      "슬로우"
     ],
     "hidden": false,
     "name-en": "Orchid",
@@ -277,9 +277,9 @@
     "sex": "女",
     "characteristic": "能够阻挡一个敌人",
     "tags": [
-      "近战位",
-      "输出",
-      "生存"
+      "근거리",
+      "딜링",
+      "생존"
     ],
     "hidden": false,
     "name-en": "Melantha",
@@ -293,8 +293,8 @@
     "sex": "女",
     "characteristic": "能够阻挡三个敌人",
     "tags": [
-      "近战位",
-      "防护"
+      "근거리",
+      "보호"
     ],
     "hidden": false,
     "name-en": "Beagle",
@@ -308,8 +308,8 @@
     "sex": "女",
     "characteristic": "能够阻挡三个敌人",
     "tags": [
-      "近战位",
-      "防护"
+      "근거리",
+      "보호"
     ],
     "hidden": true,
     "name-en": "Cardigan",
@@ -323,9 +323,9 @@
     "sex": "男",
     "characteristic": "能够阻挡两个敌人",
     "tags": [
-      "近战位",
-      "费用回复",
-      "防护"
+      "근거리",
+      "비용회복",
+      "보호"
     ],
     "hidden": true,
     "name-en": "Courier",
@@ -339,9 +339,9 @@
     "sex": "女",
     "characteristic": "能够阻挡两个敌人",
     "tags": [
-      "近战位",
-      "费用回复",
-      "输出"
+      "근거리",
+      "비용회복",
+      "딜링"
     ],
     "hidden": false,
     "name-en": "Scavenger",
@@ -355,9 +355,9 @@
     "sex": "女",
     "characteristic": "击杀敌人后获得1点部署费用，撤退时返还初始部署费用",
     "tags": [
-      "近战位",
-      "输出",
-      "费用回复"
+      "근거리",
+      "딜링",
+      "비용회복"
     ],
     "hidden": false,
     "name-en": "Vigna",
@@ -371,8 +371,8 @@
     "sex": "女",
     "characteristic": "恢复友方单位生命",
     "tags": [
-      "远程位",
-      "治疗"
+      "원거리",
+      "치료"
     ],
     "hidden": false,
     "name-en": "Myrrh",
@@ -386,8 +386,8 @@
     "sex": "女",
     "characteristic": "恢复友方单位生命",
     "tags": [
-      "远程位",
-      "治疗"
+      "원거리",
+      "치료"
     ],
     "hidden": true,
     "name-en": "Gaviel",
@@ -401,8 +401,8 @@
     "sex": "女",
     "characteristic": "同时恢复三个友方单位的生命",
     "tags": [
-      "远程位",
-      "治疗"
+      "원거리",
+      "치료"
     ],
     "hidden": false,
     "name-en": "Perfumer",
@@ -416,9 +416,9 @@
     "sex": "女",
     "characteristic": "攻击造成法术伤害",
     "tags": [
-      "削弱",
-      "远程位",
-      "输出"
+      "약화",
+      "원거리",
+      "딜링"
     ],
     "hidden": false,
     "name-en": "Haze",
@@ -432,8 +432,8 @@
     "sex": "女",
     "characteristic": "攻击造成群体法术伤害",
     "tags": [
-      "远程位",
-      "群攻"
+      "원거리",
+      "광역"
     ],
     "hidden": false,
     "name-en": "Gitano",
@@ -447,9 +447,9 @@
     "sex": "女",
     "characteristic": "再部署时间大幅度减少",
     "tags": [
-      "近战位",
-      "快速复活",
-      "防护"
+      "근거리",
+      "쾌속부활",
+      "보호"
     ],
     "hidden": false,
     "name-en": "Gravel",
@@ -461,10 +461,10 @@
     "type": "特种",
     "level": 4,
     "sex": "女",
-    "characteristic": "技能可以使敌人产生位移、可以放置于远程位",
+    "characteristic": "技能可以使敌人产生변위、可以放置于원거리",
     "tags": [
-      "近战位",
-      "位移"
+      "근거리",
+      "변위"
     ],
     "hidden": false,
     "name-en": "Rope",
@@ -476,7 +476,7 @@
     "type": "特种",
     "level": 4,
     "sex": "女",
-    "characteristic": "同时攻击阻挡的所有敌人、技能可以使敌人产生位移",
+    "characteristic": "同时攻击阻挡的所有敌人、技能可以使敌人产生변위",
     "tags": [
       "三测暂不实装"
     ],
@@ -488,10 +488,10 @@
     "type": "特种",
     "level": 4,
     "sex": "女",
-    "characteristic": "同时攻击阻挡的所有敌人、可以放置于远程位",
+    "characteristic": "同时攻击阻挡的所有敌人、可以放置于원거리",
     "tags": [
-      "近战位",
-      "位移"
+      "근거리",
+      "변위"
     ],
     "hidden": false,
     "name-en": "Shaw",
@@ -517,9 +517,9 @@
     "sex": "女",
     "characteristic": "攻击造成群体物理伤害",
     "tags": [
-      "远程位",
-      "群攻",
-      "减速"
+      "원거리",
+      "광역",
+      "슬로우"
     ],
     "hidden": false,
     "name-en": "ShiraYuki",
@@ -533,9 +533,9 @@
     "sex": "女",
     "characteristic": "优先攻击空中单位",
     "tags": [
-      "远程位",
-      "输出",
-      "削弱"
+      "원거리",
+      "딜링",
+      "약화"
     ],
     "hidden": false,
     "name-en": "Meteor",
@@ -549,9 +549,9 @@
     "sex": "女",
     "characteristic": "优先攻击空中单位",
     "tags": [
-      "远程位",
-      "输出",
-      "生存"
+      "원거리",
+      "딜링",
+      "생존"
     ],
     "hidden": false,
     "name-en": "Jessica",
@@ -563,10 +563,10 @@
     "type": "辅助",
     "level": 4,
     "sex": "女",
-    "characteristic": "攻击造成魔法伤害、可以使用召唤物协助作战",
+    "characteristic": "攻击造成魔法伤害、可以使用소환物协助作战",
     "tags": [
-      "远程位",
-      "召唤"
+      "원거리",
+      "소환"
     ],
     "hidden": true,
     "name-en": "Deepcolor",
@@ -580,8 +580,8 @@
     "sex": "女",
     "characteristic": "攻击造成魔法伤害，并对敌人造成短暂的停顿",
     "tags": [
-      "远程位",
-      "减速"
+      "원거리",
+      "슬로우"
     ],
     "hidden": false,
     "name-en": "Earthspirit",
@@ -595,9 +595,9 @@
     "sex": "女",
     "characteristic": "可以攻击到较远敌人",
     "tags": [
-      "近战位",
-      "支援",
-      "输出"
+      "근거리",
+      "지원",
+      "딜링"
     ],
     "hidden": false,
     "name-en": "Dobermann",
@@ -611,9 +611,9 @@
     "sex": "女",
     "characteristic": "同时攻击阻挡的所有敌人",
     "tags": [
-      "近战位",
-      "群攻",
-      "生存"
+      "근거리",
+      "광역",
+      "생존"
     ],
     "hidden": false,
     "name-en": "Estelle",
@@ -639,8 +639,8 @@
     "sex": "女",
     "characteristic": "攻击造成法术伤害",
     "tags": [
-      "近战位",
-      "输出"
+      "근거리",
+      "딜링"
     ],
     "hidden": false,
     "name-en": "Mousse",
@@ -654,9 +654,9 @@
     "sex": "女",
     "characteristic": "可以进行远程攻击，但此时攻击力降低至80%",
     "tags": [
-      "近战位",
-      "减速",
-      "输出"
+      "근거리",
+      "슬로우",
+      "딜링"
     ],
     "hidden": false,
     "name-en": "Frostleaf",
@@ -670,9 +670,9 @@
     "sex": "女",
     "characteristic": "能够阻挡一个敌人",
     "tags": [
-      "输出",
-      "近战位",
-      "生存"
+      "딜링",
+      "근거리",
+      "생존"
     ],
     "hidden": false,
     "name-en": "Matoimaru",
@@ -686,8 +686,8 @@
     "sex": "女",
     "characteristic": "能够阻挡三个敌人",
     "tags": [
-      "近战位",
-      "防护"
+      "근거리",
+      "보호"
     ],
     "hidden": false,
     "name-en": "Cuora",
@@ -699,11 +699,11 @@
     "type": "重装",
     "level": 4,
     "sex": "女",
-    "characteristic": "技能可以治疗友方单位",
+    "characteristic": "技能可以치료友方单位",
     "tags": [
-      "近战位",
-      "防护",
-      "治疗"
+      "근거리",
+      "보호",
+      "치료"
     ],
     "hidden": false,
     "name-en": "ГУМ",
@@ -717,8 +717,8 @@
     "sex": "男",
     "characteristic": "能够阻挡三个敌人",
     "tags": [
-      "近战位",
-      "防护"
+      "근거리",
+      "보호"
     ],
     "hidden": false,
     "name-en": "Matterhorn",
@@ -732,10 +732,10 @@
     "sex": "女",
     "characteristic": "能够阻挡两个敌人",
     "tags": [
-      "控场",
-      "近战位",
-      "费用回复",
-      "资深干员"
+      "군중제어",
+      "근거리",
+      "비용회복",
+      "베테랑"
     ],
     "hidden": false,
     "name-en": "Texas",
@@ -749,10 +749,10 @@
     "sex": "女",
     "characteristic": "能够阻挡两个敌人",
     "tags": [
-      "支援",
-      "近战位",
-      "费用回复",
-      "资深干员"
+      "지원",
+      "근거리",
+      "비용회복",
+      "베테랑"
     ],
     "hidden": false,
     "name-en": "зима",
@@ -766,10 +766,10 @@
     "sex": "女",
     "characteristic": "同时恢复三个友方单位的生命",
     "tags": [
-      "远程位",
-      "治疗",
-      "支援",
-      "资深干员"
+      "원거리",
+      "치료",
+      "지원",
+      "베테랑"
     ],
     "hidden": false,
     "name-en": "Ptilopsis",
@@ -783,9 +783,9 @@
     "sex": "女",
     "characteristic": "恢复友方单位生命",
     "tags": [
-      "远程位",
-      "治疗",
-      "资深干员"
+      "원거리",
+      "치료",
+      "베테랑"
     ],
     "hidden": false,
     "name-en": "Silence",
@@ -799,10 +799,10 @@
     "sex": "女",
     "characteristic": "恢复友方单位生命",
     "tags": [
-      "远程位",
-      "治疗",
-      "支援",
-      "资深干员"
+      "원거리",
+      "치료",
+      "지원",
+      "베테랑"
     ],
     "hidden": false,
     "name-en": "Warfarin",
@@ -816,8 +816,8 @@
     "sex": "女",
     "characteristic": "攻击造成法术伤害",
     "tags": [
-      "远程位",
-      "输出"
+      "원거리",
+      "딜링"
     ],
     "hidden": true,
     "name-en": "Amiya",
@@ -843,10 +843,10 @@
     "sex": "女",
     "characteristic": "攻击造成群体法术伤害",
     "tags": [
-      "控场",
-      "远程位",
-      "群攻",
-      "资深干员"
+      "군중제어",
+      "원거리",
+      "광역",
+      "베테랑"
     ],
     "hidden": true,
     "name-en": "Skyfire",
@@ -860,10 +860,10 @@
     "sex": "女",
     "characteristic": "再部署时间大幅减少",
     "tags": [
-      "近战位",
-      "控场",
-      "快速复活",
-      "资深干员"
+      "근거리",
+      "군중제어",
+      "쾌속부활",
+      "베테랑"
     ],
     "hidden": false,
     "name-en": "Projekt Red",
@@ -877,10 +877,10 @@
     "sex": "女",
     "characteristic": "对攻击范围内所有敌人造成伤害、拥有50%的物理和法术闪避且不容易成为敌人的攻击目标",
     "tags": [
-      "生存",
-      "近战位",
-      "输出",
-      "资深干员"
+      "생존",
+      "근거리",
+      "딜링",
+      "베테랑"
     ],
     "hidden": false,
     "name-en": "Manticore",
@@ -892,12 +892,12 @@
     "type": "特种",
     "level": 5,
     "sex": "女",
-    "characteristic": "技能可以使敌人产生位移、可以放置于远程位",
+    "characteristic": "技能可以使敌人产生변위、可以放置于원거리",
     "tags": [
-      "输出",
-      "近战位",
-      "位移",
-      "资深干员"
+      "딜링",
+      "근거리",
+      "변위",
+      "베테랑"
     ],
     "hidden": false,
     "name-en": "Cliffheart",
@@ -909,12 +909,12 @@
     "type": "特种",
     "level": 5,
     "sex": "女",
-    "characteristic": "同时攻击阻挡的所有敌人、可以放置于远程位",
+    "characteristic": "同时攻击阻挡的所有敌人、可以放置于원거리",
     "tags": [
-      "减速",
-      "近战位",
-      "位移",
-      "资深干员"
+      "슬로우",
+      "근거리",
+      "변위",
+      "베테랑"
     ],
     "hidden": false,
     "name-en": "FEater",
@@ -928,9 +928,9 @@
     "sex": "女",
     "characteristic": "高精度的近距离射击",
     "tags": [
-      "远程位",
-      "输出",
-      "资深干员"
+      "원거리",
+      "딜링",
+      "베테랑"
     ],
     "hidden": false,
     "name-en": "Provence",
@@ -944,9 +944,9 @@
     "sex": "女",
     "characteristic": "优先攻击空中单位",
     "tags": [
-      "远程位",
-      "输出",
-      "资深干员"
+      "원거리",
+      "딜링",
+      "베테랑"
     ],
     "hidden": false,
     "name-en": "Blue Poison",
@@ -960,10 +960,10 @@
     "sex": "女",
     "characteristic": "优先攻击攻击范围内防御力最低的敌方单位",
     "tags": [
-      "远程位",
-      "输出",
-      "爆发",
-      "资深干员"
+      "원거리",
+      "딜링",
+      "폭발",
+      "베테랑"
     ],
     "hidden": false,
     "name-en": "Firewatch",
@@ -977,10 +977,10 @@
     "sex": "女",
     "characteristic": "攻击造成群体物理伤害",
     "tags": [
-      "远程位",
-      "群攻",
-      "削弱",
-      "资深干员"
+      "원거리",
+      "광역",
+      "약화",
+      "베테랑"
     ],
     "hidden": false,
     "name-en": "Meteorite",
@@ -994,9 +994,9 @@
     "sex": "女",
     "characteristic": "优先攻击空中单位",
     "tags": [
-      "远程位",
-      "输出",
-      "资深干员"
+      "원거리",
+      "딜링",
+      "베테랑"
     ],
     "hidden": false,
     "name-en": "Platinum",
@@ -1010,9 +1010,9 @@
     "sex": "女",
     "characteristic": "攻击造成魔法伤害",
     "tags": [
-      "远程位",
-      "削弱",
-      "资深干员"
+      "원거리",
+      "약화",
+      "베테랑"
     ],
     "hidden": false,
     "name-en": "Pramanix",
@@ -1026,10 +1026,10 @@
     "sex": "女",
     "characteristic": "攻击造成法术伤害，并对敌人造成短暂的停顿",
     "tags": [
-      "远程位",
-      "减速",
-      "输出",
-      "资深干员"
+      "원거리",
+      "슬로우",
+      "딜링",
+      "베테랑"
     ],
     "hidden": false,
     "name-en": "Истина",
@@ -1041,12 +1041,12 @@
     "type": "辅助",
     "level": 5,
     "sex": "女",
-    "characteristic": "攻击造成魔法伤害、可以使用召唤物协助作战",
+    "characteristic": "攻击造成魔法伤害、可以使用소환物协助作战",
     "tags": [
-      "远程位",
-      "召唤",
-      "控场",
-      "资深干员"
+      "원거리",
+      "소환",
+      "군중제어",
+      "베테랑"
     ],
     "hidden": false,
     "name-en": "Mayer",
@@ -1060,10 +1060,10 @@
     "sex": "女",
     "characteristic": "不进行攻击，持续恢复攻击范围内所有友军的生命（每秒恢复相当于空攻击力10%的生命）",
     "tags": [
-      "支援",
-      "远程位",
-      "治疗",
-      "资深干员"
+      "지원",
+      "원거리",
+      "치료",
+      "베테랑"
     ],
     "hidden": true,
     "name-en": "Sora",
@@ -1077,10 +1077,10 @@
     "sex": "女",
     "characteristic": "能够阻挡一个敌人",
     "tags": [
-      "近战位",
-      "输出",
-      "生存",
-      "资深干员"
+      "근거리",
+      "딜링",
+      "생존",
+      "베테랑"
     ],
     "hidden": true,
     "name-en": "Franka",
@@ -1094,10 +1094,10 @@
     "sex": "女",
     "characteristic": "同时攻击阻挡的所有敌人",
     "tags": [
-      "近战位",
-      "群攻",
-      "生存",
-      "资深干员"
+      "근거리",
+      "광역",
+      "생존",
+      "베테랑"
     ],
     "hidden": false,
     "name-en": "Specter",
@@ -1111,10 +1111,10 @@
     "sex": "女",
     "characteristic": "能够阻挡一个敌人",
     "tags": [
-      "近战位",
-      "输出",
-      "生存",
-      "资深干员"
+      "근거리",
+      "딜링",
+      "생존",
+      "베테랑"
     ],
     "hidden": false,
     "name-en": "Indra",
@@ -1128,9 +1128,9 @@
     "sex": "女",
     "characteristic": "三测暂不实装",
     "tags": [
-      "近战位",
-      "群攻",
-      "支援"
+      "근거리",
+      "광역",
+      "지원"
     ],
     "hidden": true
   },
@@ -1142,10 +1142,10 @@
     "sex": "女",
     "characteristic": "可以进行远程攻击，但此时攻击力降低至80%",
     "tags": [
-      "近战位",
-      "输出",
-      "削弱",
-      "资深干员"
+      "근거리",
+      "딜링",
+      "약화",
+      "베테랑"
     ],
     "hidden": true,
     "name-en": "Lappland",
@@ -1157,12 +1157,12 @@
     "type": "重装",
     "level": 5,
     "sex": "女",
-    "characteristic": "技能可以治疗友方单位",
+    "characteristic": "技能可以치료友方单位",
     "tags": [
-      "近战位",
-      "防护",
-      "治疗",
-      "资深干员"
+      "근거리",
+      "보호",
+      "치료",
+      "베테랑"
     ],
     "hidden": false,
     "name-en": "Nearl",
@@ -1176,10 +1176,10 @@
     "sex": "女",
     "characteristic": "能够阻挡三个敌人",
     "tags": [
-      "近战位",
-      "防护",
-      "输出",
-      "资深干员"
+      "근거리",
+      "보호",
+      "딜링",
+      "베테랑"
     ],
     "hidden": false,
     "name-en": "Liskarm",
@@ -1191,13 +1191,13 @@
     "type": "重装",
     "level": 5,
     "sex": "女",
-    "characteristic": "无法被友方角色治疗",
+    "characteristic": "无法被友方角色치료",
     "tags": [
-      "近战位",
-      "输出",
-      "防护",
-      "生存",
-      "资深干员"
+      "근거리",
+      "딜링",
+      "보호",
+      "생존",
+      "베테랑"
     ],
     "hidden": false,
     "name-en": "Vulcan",
@@ -1211,10 +1211,10 @@
     "sex": "女",
     "characteristic": "能够阻挡三个敌人",
     "tags": [
-      "近战位",
-      "位移",
-      "防护",
-      "资深干员"
+      "근거리",
+      "변위",
+      "보호",
+      "베테랑"
     ],
     "hidden": false,
     "name-en": "Croissant",
@@ -1228,10 +1228,10 @@
     "sex": "女",
     "characteristic": "能够阻挡两个敌人",
     "tags": [
-      "近战位",
-      "费用回复",
-      "输出",
-      "高级资深干员"
+      "근거리",
+      "비용회복",
+      "딜링",
+      "高级베테랑"
     ],
     "hidden": false,
     "name-en": "Siege",
@@ -1245,10 +1245,10 @@
     "sex": "女",
     "characteristic": "恢复友方单位生命",
     "tags": [
-      "远程位",
-      "支援",
-      "治疗",
-      "高级资深干员"
+      "원거리",
+      "지원",
+      "치료",
+      "高级베테랑"
     ],
     "hidden": false,
     "name-en": "Shining",
@@ -1262,10 +1262,10 @@
     "sex": "女",
     "characteristic": "同时恢复三个友方单位的生命",
     "tags": [
-      "远程位",
-      "治疗",
-      "支援",
-      "高级资深干员"
+      "원거리",
+      "치료",
+      "지원",
+      "高级베테랑"
     ],
     "hidden": false,
     "name-en": "Nightingale",
@@ -1277,7 +1277,7 @@
     "type": "医疗",
     "level": 6,
     "sex": "女",
-    "characteristic": "恢复友方单位生命、可以使用召唤物协助作战",
+    "characteristic": "恢复友方单位生命、可以使用소환物协助作战",
     "tags": [
       "三测暂不实装"
     ],
@@ -1291,10 +1291,10 @@
     "sex": "女",
     "characteristic": "攻击造成超远距离的群体法术伤害",
     "tags": [
-      "远程位",
-      "群攻",
-      "削弱",
-      "高级资深干员"
+      "원거리",
+      "광역",
+      "약화",
+      "高级베테랑"
     ],
     "hidden": false,
     "name-en": "Ifrit",
@@ -1308,10 +1308,10 @@
     "sex": "女",
     "characteristic": "攻击造成法术伤害",
     "tags": [
-      "远程位",
-      "输出",
-      "削弱",
-      "高级资深干员"
+      "원거리",
+      "딜링",
+      "약화",
+      "高级베테랑"
     ],
     "hidden": true,
     "name-en": "Eyjafjalla",
@@ -1325,9 +1325,9 @@
     "sex": "女",
     "characteristic": "优先攻击空中单位",
     "tags": [
-      "远程位",
-      "输出",
-      "高级资深干员"
+      "원거리",
+      "딜링",
+      "高级베테랑"
     ],
     "hidden": false,
     "name-en": "Exusiai",
@@ -1341,11 +1341,11 @@
     "sex": "女",
     "characteristic": "攻击造成法术伤害，并对敌人造成短暂的停顿",
     "tags": [
-      "远程位",
-      "减速",
-      "输出",
-      "支援",
-      "高级资深干员"
+      "원거리",
+      "슬로우",
+      "딜링",
+      "지원",
+      "高级베테랑"
     ],
     "hidden": true,
     "name-en": "Angelina",
@@ -1359,10 +1359,10 @@
     "sex": "男",
     "characteristic": "可以进行远程攻击，但此时攻击力降低至80%",
     "tags": [
-      "近战位",
-      "输出",
-      "支援",
-      "高级资深干员"
+      "근거리",
+      "딜링",
+      "지원",
+      "高级베테랑"
     ],
     "hidden": false,
     "name-en": "SilverAsh",
@@ -1376,10 +1376,10 @@
     "sex": "女",
     "characteristic": "能够阻挡三个敌人",
     "tags": [
-      "近战位",
-      "输出",
-      "防护",
-      "高级资深干员"
+      "근거리",
+      "딜링",
+      "보호",
+      "高级베테랑"
     ],
     "hidden": false,
     "name-en": "Hoshiguma",
@@ -1391,13 +1391,13 @@
     "type": "重装",
     "level": 6,
     "sex": "女",
-    "characteristic": "技能可以治疗友方单位",
+    "characteristic": "技能可以치료友方单位",
     "tags": [
-      "近战位",
-      "支援",
-      "防护",
-      "治疗",
-      "高级资深干员"
+      "근거리",
+      "지원",
+      "보호",
+      "치료",
+      "高级베테랑"
     ],
     "hidden": false,
     "name-en": "Saria",
