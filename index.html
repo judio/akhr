@@ -122,38 +122,28 @@
             }[lang];
             let tags = [
                 {
-                    "cn": "资质", "cntags": ["新手", "资深干员", "高级资深干员"],
-                    "en": "Qualification", "entags": ["Newbie", "Senior", "Advanced Senior"],
                     "ko": "자격", "kotags": ["신입", "베테랑", "전문가"]
                 },
                 {
-                    "cn": "位置", "cntags": ["远程位", "近战位"],
-                    "en": "Position", "entags": ["Ranged", "Melee"],
                     "ko": "포지션", "kotags": ["원거리", "근거리"]
                 },
                 {
-                    "cn": "性别", "cntags": ["男性干员", "女性干员"],
-                    "en": "Gender", "entags": ["Male", "Female"],
                     "ko": "성별", "kotags": ["남성대원", "여성대원"]
                 },
                 {
-                    "cn": "种类", "cntags": ["先锋干员", "狙击干员", "医疗干员", "术师干员", "近卫干员", "重装干员", "辅助干员", "特种干员"],
-                    "en": "Class", "entags": ["Vanguard", "Sniper", "Medic", "Caster", "Guard", "Defender", "Support", "Specialist"],
                     "ko": "클래스", "kotags": ["선봉", "저격대원", "의료대원", "술사대원", "근위대원", "중장대원", "보조대원", "특수대원"]
                 },
                 {
-                    "cn": "词缀", "cntags": ["治疗", "支援", "输出", "群攻", "减速", "生存", "防护", "削弱", "位移", "控场", "爆发", "召唤", "快速复活", "费用回复"],
-                    "en": "Affix", "entags": ["Healing", "Support", "DPS", "Splash", "Slow", "Survival", "Protection", "Debuffer", "Displacement", "Crowd Control", "Burst", "Summoner", "Quick Resurrection", "Cost Recovery"],
                     "ko": "태그", "kotags": ["치료", "지원", "딜링", "광역", "슬로우", "생존", "보호", "약화", "변위", "군중제어", "폭발", "소환", "쾌속부활", "비용회복"]
                 }
             ];
             $.each(tags, (_, v) => {
                 let row = '<tr><td><button class="btn btn-sm btn-info my-1" disabled>' + v[lang] + '</button></td><td>';
                 let tags_btn = []
-                for (let i = 0; i < v['cntags'].length; i++) {
+                for (let i = 0; i < v['kotags'].length; i++) {
                     tags_btn.push('<button class="btn btn-sm btn-secondary btn-tag m-1" ' +
                         (lang === 'cn' ? '' : ('data-toggle="tooltip" data-placement="top" title="' + v[lang + 'tags'][i] + '"'))
-                        + '>' + v['cntags'][i] + "</button>");
+                        + '>' + v['kotags'][i] + "</button>");
                 }
                 row += tags_btn.join("") + "</td></tr>";
                 $("#box-tags").append(row);
