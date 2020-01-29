@@ -2,9 +2,9 @@
   {
     "name": "暴行",
     "camp": "雷姆必拓",
-    "type": "近卫",
+    "type": "근위대원",
     "level": 5,
-    "sex": "女",
+    "sex": "여성",
     "characteristic": "",
     "tags": [
       "三测暂不实装"
@@ -16,9 +16,9 @@
   {
     "name": "Lancet-2",
     "camp": "罗德岛",
-    "type": "医疗",
+    "type": "의료대원",
     "level": 1,
-    "sex": "女",
+    "sex": "여성",
     "characteristic": "恢复友方单位生命，且不受部署数量限制，但再部署时间极长",
     "tags": [
       "원거리",
@@ -31,9 +31,9 @@
   {
     "name": "Castle-3",
     "camp": "罗德岛",
-    "type": "近卫",
+    "type": "근위대원",
     "level": 1,
-    "sex": "男",
+    "sex": "남성",
     "characteristic": "能够阻挡一个敌人，且不受部署数量限制，但再部署时间极长",
     "tags": [
       "근거리",
@@ -46,9 +46,9 @@
   {
     "name": "夜刀",
     "camp": "罗德岛",
-    "type": "先锋",
+    "type": "선봉",
     "level": 2,
-    "sex": "女",
+    "sex": "여성",
     "characteristic": "能够阻挡两个敌人",
     "tags": [
       "근거리",
@@ -61,9 +61,9 @@
   {
     "name": "杜林",
     "camp": "罗德岛",
-    "type": "术师",
+    "type": "술사대원",
     "level": 2,
-    "sex": "女",
+    "sex": "여성",
     "characteristic": "攻击造成法术伤害",
     "tags": [
       "원거리",
@@ -76,9 +76,9 @@
   {
     "name": "12F",
     "camp": "罗德岛",
-    "type": "术师",
+    "type": "술사대원",
     "level": 2,
-    "sex": "男",
+    "sex": "남성",
     "characteristic": "攻击造成群体法术伤害",
     "tags": [
       "원거리",
@@ -91,9 +91,9 @@
   {
     "name": "巡林者",
     "camp": "罗德岛",
-    "type": "狙击",
+    "type": "저격대원",
     "level": 2,
-    "sex": "男",
+    "sex": "남성",
     "characteristic": "优先攻击空中单位",
     "tags": [
       "원거리",
@@ -106,9 +106,9 @@
   {
     "name": "黑角",
     "camp": "罗德岛",
-    "type": "重装",
+    "type": "중장대원",
     "level": 2,
-    "sex": "男",
+    "sex": "남성",
     "characteristic": "能够阻挡三个敌人",
     "tags": [
       "근거리",
@@ -121,9 +121,9 @@
   {
     "name": "芬",
     "camp": "罗德岛",
-    "type": "先锋",
+    "type": "선봉",
     "level": 3,
-    "sex": "女",
+    "sex": "여성",
     "characteristic": "能够阻挡两个敌人",
     "tags": [
       "근거리",
@@ -136,9 +136,9 @@
   {
     "name": "香草",
     "camp": "黑钢国际",
-    "type": "先锋",
+    "type": "선봉",
     "level": 3,
-    "sex": "女",
+    "sex": "여성",
     "characteristic": "能够阻挡两个敌人",
     "tags": [
       "근거리",
@@ -151,9 +151,9 @@
   {
     "name": "翎羽",
     "camp": "拉特兰",
-    "type": "先锋",
+    "type": "선봉",
     "level": 3,
-    "sex": "女",
+    "sex": "여성",
     "characteristic": "击杀敌人后获得1点部署费用，撤退时返还初始部署费用",
     "tags": [
       "근거리",
@@ -167,9 +167,9 @@
   {
     "name": "芙蓉",
     "camp": "罗德岛",
-    "type": "医疗",
+    "type": "의료대원",
     "level": 3,
-    "sex": "女",
+    "sex": "여성",
     "characteristic": "恢复友方单位生命",
     "tags": [
       "원거리",
@@ -182,9 +182,9 @@
   {
     "name": "安赛尔",
     "camp": "罗德岛",
-    "type": "医疗",
+    "type": "의료대원",
     "level": 3,
-    "sex": "男",
+    "sex": "남성",
     "characteristic": "恢复友方单位生命",
     "tags": [
       "원거리",
@@ -197,9 +197,9 @@
   {
     "name": "炎熔",
     "camp": "罗德岛",
-    "type": "术师",
+    "type": "술사대원",
     "level": 3,
-    "sex": "女",
+    "sex": "여성",
     "characteristic": "攻击造成群体法术伤害",
     "tags": [
       "원거리",
@@ -212,9 +212,9 @@
   {
     "name": "史都华德",
     "camp": "罗德岛",
-    "type": "术师",
+    "type": "술사대원",
     "level": 3,
-    "sex": "男",
+    "sex": "남성",
     "characteristic": "攻击造成法术伤害",
     "tags": [
       "원거리",
@@ -227,9 +227,9 @@
   {
     "name": "克洛丝",
     "camp": "罗德岛",
-    "type": "狙击",
+    "type": "저격대원",
     "level": 3,
-    "sex": "女",
+    "sex": "여성",
     "characteristic": "优先攻击空中单位",
     "tags": [
       "원거리",
@@ -242,9 +242,9 @@
   {
     "name": "安德切尔",
     "camp": "罗德岛",
-    "type": "狙击",
+    "type": "저격대원",
     "level": 3,
-    "sex": "男",
+    "sex": "남성",
     "characteristic": "优先攻击空中单位",
     "tags": [
       "원거리",
@@ -257,9 +257,9 @@
   {
     "name": "梓兰",
     "camp": "罗德岛",
-    "type": "辅助",
+    "type": "보조대원",
     "level": 3,
-    "sex": "女",
+    "sex": "여성",
     "characteristic": "攻击造成法术伤害，并对敌人造成短暂的停顿",
     "tags": [
       "원거리",
@@ -272,9 +272,9 @@
   {
     "name": "玫兰莎",
     "camp": "罗德岛",
-    "type": "近卫",
+    "type": "근위대원",
     "level": 3,
-    "sex": "女",
+    "sex": "여성",
     "characteristic": "能够阻挡一个敌人",
     "tags": [
       "근거리",
@@ -288,9 +288,9 @@
   {
     "name": "米格鲁",
     "camp": "罗德岛",
-    "type": "重装",
+    "type": "중장대원",
     "level": 3,
-    "sex": "女",
+    "sex": "여성",
     "characteristic": "能够阻挡三个敌人",
     "tags": [
       "근거리",
@@ -303,9 +303,9 @@
   {
     "name": "卡缇",
     "camp": "罗德岛",
-    "type": "重装",
+    "type": "중장대원",
     "level": 3,
-    "sex": "女",
+    "sex": "여성",
     "characteristic": "能够阻挡三个敌人",
     "tags": [
       "근거리",
@@ -318,9 +318,9 @@
   {
     "name": "讯使",
     "camp": "谢拉格",
-    "type": "先锋",
+    "type": "선봉",
     "level": 4,
-    "sex": "男",
+    "sex": "남성",
     "characteristic": "能够阻挡两个敌人",
     "tags": [
       "근거리",
@@ -334,9 +334,9 @@
   {
     "name": "清道夫",
     "camp": "罗德岛",
-    "type": "先锋",
+    "type": "선봉",
     "level": 4,
-    "sex": "女",
+    "sex": "여성",
     "characteristic": "能够阻挡两个敌人",
     "tags": [
       "근거리",
@@ -350,9 +350,9 @@
   {
     "name": "红豆",
     "camp": "罗德岛",
-    "type": "先锋",
+    "type": "선봉",
     "level": 4,
-    "sex": "女",
+    "sex": "여성",
     "characteristic": "击杀敌人后获得1点部署费用，撤退时返还初始部署费用",
     "tags": [
       "근거리",
@@ -366,9 +366,9 @@
   {
     "name": "末药",
     "camp": "罗德岛",
-    "type": "医疗",
+    "type": "의료대원",
     "level": 4,
-    "sex": "女",
+    "sex": "여성",
     "characteristic": "恢复友方单位生命",
     "tags": [
       "원거리",
@@ -381,9 +381,9 @@
   {
     "name": "嘉维尔",
     "camp": "罗德岛",
-    "type": "医疗",
+    "type": "의료대원",
     "level": 4,
-    "sex": "女",
+    "sex": "여성",
     "characteristic": "恢复友方单位生命",
     "tags": [
       "원거리",
@@ -396,9 +396,9 @@
   {
     "name": "调香师",
     "camp": "罗德岛",
-    "type": "医疗",
+    "type": "의료대원",
     "level": 4,
-    "sex": "女",
+    "sex": "여성",
     "characteristic": "同时恢复三个友方单位的生命",
     "tags": [
       "원거리",
@@ -411,9 +411,9 @@
   {
     "name": "夜烟",
     "camp": "罗德岛",
-    "type": "术师",
+    "type": "술사대원",
     "level": 4,
-    "sex": "女",
+    "sex": "여성",
     "characteristic": "攻击造成法术伤害",
     "tags": [
       "약화",
@@ -427,9 +427,9 @@
   {
     "name": "远山",
     "camp": "罗德岛",
-    "type": "术师",
+    "type": "술사대원",
     "level": 4,
-    "sex": "女",
+    "sex": "여성",
     "characteristic": "攻击造成群体法术伤害",
     "tags": [
       "원거리",
@@ -442,9 +442,9 @@
   {
     "name": "砾",
     "camp": "卡西米尔",
-    "type": "特种",
+    "type": "특수대원",
     "level": 4,
-    "sex": "女",
+    "sex": "여성",
     "characteristic": "再部署时间大幅度减少",
     "tags": [
       "근거리",
@@ -458,9 +458,9 @@
   {
     "name": "暗索",
     "camp": "雷姆必拓",
-    "type": "特种",
+    "type": "특수대원",
     "level": 4,
-    "sex": "女",
+    "sex": "여성",
     "characteristic": "技能可以使敌人产生변위、可以放置于원거리",
     "tags": [
       "근거리",
@@ -473,9 +473,9 @@
   {
     "name": "断罪者",
     "camp": "罗德岛",
-    "type": "特种",
+    "type": "특수대원",
     "level": 4,
-    "sex": "女",
+    "sex": "여성",
     "characteristic": "同时攻击阻挡的所有敌人、技能可以使敌人产生변위",
     "tags": [
       "三测暂不实装"
@@ -485,9 +485,9 @@
   {
     "name": "阿消",
     "camp": "龙门",
-    "type": "特种",
+    "type": "특수대원",
     "level": 4,
-    "sex": "女",
+    "sex": "여성",
     "characteristic": "同时攻击阻挡的所有敌人、可以放置于원거리",
     "tags": [
       "근거리",
@@ -500,9 +500,9 @@
   {
     "name": "梅",
     "camp": "罗德岛",
-    "type": "狙击",
+    "type": "저격대원",
     "level": 4,
-    "sex": "女",
+    "sex": "여성",
     "characteristic": "优先攻击空中单位",
     "tags": [
       "三测暂不实装"
@@ -512,9 +512,9 @@
   {
     "name": "白雪",
     "camp": "龙门",
-    "type": "狙击",
+    "type": "저격대원",
     "level": 4,
-    "sex": "女",
+    "sex": "여성",
     "characteristic": "攻击造成群体物理伤害",
     "tags": [
       "원거리",
@@ -528,9 +528,9 @@
   {
     "name": "流星",
     "camp": "卡西米尔",
-    "type": "狙击",
+    "type": "저격대원",
     "level": 4,
-    "sex": "女",
+    "sex": "여성",
     "characteristic": "优先攻击空中单位",
     "tags": [
       "원거리",
@@ -544,9 +544,9 @@
   {
     "name": "杰西卡",
     "camp": "黑钢国际",
-    "type": "狙击",
+    "type": "저격대원",
     "level": 4,
-    "sex": "女",
+    "sex": "여성",
     "characteristic": "优先攻击空中单位",
     "tags": [
       "원거리",
@@ -560,9 +560,9 @@
   {
     "name": "深海色",
     "camp": "罗德岛",
-    "type": "辅助",
+    "type": "보조대원",
     "level": 4,
-    "sex": "女",
+    "sex": "여성",
     "characteristic": "攻击造成魔法伤害、可以使用소환物协助作战",
     "tags": [
       "원거리",
@@ -575,9 +575,9 @@
   {
     "name": "地灵",
     "camp": "卡普里尼",
-    "type": "辅助",
+    "type": "보조대원",
     "level": 4,
-    "sex": "女",
+    "sex": "여성",
     "characteristic": "攻击造成魔法伤害，并对敌人造成短暂的停顿",
     "tags": [
       "원거리",
@@ -590,9 +590,9 @@
   {
     "name": "杜宾",
     "camp": "罗德岛",
-    "type": "近卫",
+    "type": "근위대원",
     "level": 4,
-    "sex": "女",
+    "sex": "여성",
     "characteristic": "可以攻击到较远敌人",
     "tags": [
       "근거리",
@@ -606,9 +606,9 @@
   {
     "name": "艾丝黛尔",
     "camp": "罗德岛",
-    "type": "近卫",
+    "type": "근위대원",
     "level": 4,
-    "sex": "女",
+    "sex": "여성",
     "characteristic": "同时攻击阻挡的所有敌人",
     "tags": [
       "근거리",
@@ -622,9 +622,9 @@
   {
     "name": "猎蜂",
     "camp": "乌萨斯",
-    "type": "近卫",
+    "type": "근위대원",
     "level": 4,
-    "sex": "女",
+    "sex": "여성",
     "characteristic": "能够阻挡一个敌人",
     "tags": [
       "三测暂不实装"
@@ -634,9 +634,9 @@
   {
     "name": "慕斯",
     "camp": "维多利亚",
-    "type": "近卫",
+    "type": "근위대원",
     "level": 4,
-    "sex": "女",
+    "sex": "여성",
     "characteristic": "攻击造成法术伤害",
     "tags": [
       "근거리",
@@ -649,9 +649,9 @@
   {
     "name": "霜叶",
     "camp": "罗德岛",
-    "type": "近卫",
+    "type": "근위대원",
     "level": 4,
-    "sex": "女",
+    "sex": "여성",
     "characteristic": "可以进行远程攻击，但此时攻击力降低至80%",
     "tags": [
       "근거리",
@@ -665,9 +665,9 @@
   {
     "name": "缠丸",
     "camp": "罗德岛",
-    "type": "近卫",
+    "type": "근위대원",
     "level": 4,
-    "sex": "女",
+    "sex": "여성",
     "characteristic": "能够阻挡一个敌人",
     "tags": [
       "딜링",
@@ -681,9 +681,9 @@
   {
     "name": "蛇屠箱",
     "camp": "罗德岛",
-    "type": "重装",
+    "type": "중장대원",
     "level": 4,
-    "sex": "女",
+    "sex": "여성",
     "characteristic": "能够阻挡三个敌人",
     "tags": [
       "근거리",
@@ -696,9 +696,9 @@
   {
     "name": "古米",
     "camp": "乌萨斯",
-    "type": "重装",
+    "type": "중장대원",
     "level": 4,
-    "sex": "女",
+    "sex": "여성",
     "characteristic": "技能可以치료友方单位",
     "tags": [
       "근거리",
@@ -712,9 +712,9 @@
   {
     "name": "角峰",
     "camp": "谢拉格",
-    "type": "重装",
+    "type": "중장대원",
     "level": 4,
-    "sex": "男",
+    "sex": "남성",
     "characteristic": "能够阻挡三个敌人",
     "tags": [
       "근거리",
@@ -727,9 +727,9 @@
   {
     "name": "德克萨斯",
     "camp": "企鹅物流",
-    "type": "先锋",
+    "type": "선봉",
     "level": 5,
-    "sex": "女",
+    "sex": "여성",
     "characteristic": "能够阻挡两个敌人",
     "tags": [
       "군중제어",
@@ -744,9 +744,9 @@
   {
     "name": "凛冬",
     "camp": "乌萨斯",
-    "type": "先锋",
+    "type": "선봉",
     "level": 5,
-    "sex": "女",
+    "sex": "여성",
     "characteristic": "能够阻挡两个敌人",
     "tags": [
       "지원",
@@ -761,9 +761,9 @@
   {
     "name": "白面鸮",
     "camp": "莱茵生命实验室",
-    "type": "医疗",
+    "type": "의료대원",
     "level": 5,
-    "sex": "女",
+    "sex": "여성",
     "characteristic": "同时恢复三个友方单位的生命",
     "tags": [
       "원거리",
@@ -778,9 +778,9 @@
   {
     "name": "赫默",
     "camp": "莱茵生命实验室",
-    "type": "医疗",
+    "type": "의료대원",
     "level": 5,
-    "sex": "女",
+    "sex": "여성",
     "characteristic": "恢复友方单位生命",
     "tags": [
       "원거리",
@@ -794,9 +794,9 @@
   {
     "name": "华法琳",
     "camp": "罗德岛",
-    "type": "医疗",
+    "type": "의료대원",
     "level": 5,
-    "sex": "女",
+    "sex": "여성",
     "characteristic": "恢复友方单位生命",
     "tags": [
       "원거리",
@@ -811,9 +811,9 @@
   {
     "name": "阿米娅",
     "camp": "罗德岛",
-    "type": "术师",
+    "type": "술사대원",
     "level": 5,
-    "sex": "女",
+    "sex": "여성",
     "characteristic": "攻击造成法术伤害",
     "tags": [
       "원거리",
@@ -826,9 +826,9 @@
   {
     "name": "夜魔",
     "camp": "维多利亚",
-    "type": "术师",
+    "type": "술사대원",
     "level": 5,
-    "sex": "女",
+    "sex": "여성",
     "characteristic": "攻击造成法术伤害",
     "tags": [
       "三测暂不实装"
@@ -838,9 +838,9 @@
   {
     "name": "天火",
     "camp": "罗德岛",
-    "type": "术师",
+    "type": "술사대원",
     "level": 5,
-    "sex": "女",
+    "sex": "여성",
     "characteristic": "攻击造成群体法术伤害",
     "tags": [
       "군중제어",
@@ -855,9 +855,9 @@
   {
     "name": "红",
     "camp": "罗德岛",
-    "type": "特种",
+    "type": "특수대원",
     "level": 5,
-    "sex": "女",
+    "sex": "여성",
     "characteristic": "再部署时间大幅减少",
     "tags": [
       "근거리",
@@ -872,9 +872,9 @@
   {
     "name": "狮蝎",
     "camp": "罗德岛",
-    "type": "特种",
+    "type": "특수대원",
     "level": 5,
-    "sex": "女",
+    "sex": "여성",
     "characteristic": "对攻击范围内所有敌人造成伤害、拥有50%的物理和法术闪避且不容易成为敌人的攻击目标",
     "tags": [
       "생존",
@@ -889,9 +889,9 @@
   {
     "name": "崖心",
     "camp": "谢拉格",
-    "type": "特种",
+    "type": "특수대원",
     "level": 5,
-    "sex": "女",
+    "sex": "여성",
     "characteristic": "技能可以使敌人产生변위、可以放置于원거리",
     "tags": [
       "딜링",
@@ -906,9 +906,9 @@
   {
     "name": "食铁兽",
     "camp": "罗德岛",
-    "type": "特种",
+    "type": "특수대원",
     "level": 5,
-    "sex": "女",
+    "sex": "여성",
     "characteristic": "同时攻击阻挡的所有敌人、可以放置于원거리",
     "tags": [
       "슬로우",
@@ -923,9 +923,9 @@
   {
     "name": "普罗旺斯",
     "camp": "罗德岛",
-    "type": "狙击",
+    "type": "저격대원",
     "level": 5,
-    "sex": "女",
+    "sex": "여성",
     "characteristic": "高精度的近距离射击",
     "tags": [
       "원거리",
@@ -939,9 +939,9 @@
   {
     "name": "蓝毒",
     "camp": "罗德岛",
-    "type": "狙击",
+    "type": "저격대원",
     "level": 5,
-    "sex": "女",
+    "sex": "여성",
     "characteristic": "优先攻击空中单位",
     "tags": [
       "원거리",
@@ -955,9 +955,9 @@
   {
     "name": "守林人",
     "camp": "罗德岛",
-    "type": "狙击",
+    "type": "저격대원",
     "level": 5,
-    "sex": "女",
+    "sex": "여성",
     "characteristic": "优先攻击攻击范围内防御力最低的敌方单位",
     "tags": [
       "원거리",
@@ -972,9 +972,9 @@
   {
     "name": "陨星",
     "camp": "罗德岛",
-    "type": "狙击",
+    "type": "저격대원",
     "level": 5,
-    "sex": "女",
+    "sex": "여성",
     "characteristic": "攻击造成群体物理伤害",
     "tags": [
       "원거리",
@@ -989,9 +989,9 @@
   {
     "name": "白金",
     "camp": "卡西米尔",
-    "type": "狙击",
+    "type": "저격대원",
     "level": 5,
-    "sex": "女",
+    "sex": "여성",
     "characteristic": "优先攻击空中单位",
     "tags": [
       "원거리",
@@ -1005,9 +1005,9 @@
   {
     "name": "初雪",
     "camp": "谢拉格",
-    "type": "辅助",
+    "type": "보조대원",
     "level": 5,
-    "sex": "女",
+    "sex": "여성",
     "characteristic": "攻击造成魔法伤害",
     "tags": [
       "원거리",
@@ -1021,9 +1021,9 @@
   {
     "name": "真理",
     "camp": "乌萨斯",
-    "type": "辅助",
+    "type": "보조대원",
     "level": 5,
-    "sex": "女",
+    "sex": "여성",
     "characteristic": "攻击造成法术伤害，并对敌人造成短暂的停顿",
     "tags": [
       "원거리",
@@ -1038,9 +1038,9 @@
   {
     "name": "梅尔",
     "camp": "莱茵生命实验室",
-    "type": "辅助",
+    "type": "보조대원",
     "level": 5,
-    "sex": "女",
+    "sex": "여성",
     "characteristic": "攻击造成魔法伤害、可以使用소환物协助作战",
     "tags": [
       "원거리",
@@ -1055,9 +1055,9 @@
   {
     "name": "空",
     "camp": "企鹅物流",
-    "type": "辅助",
+    "type": "보조대원",
     "level": 5,
-    "sex": "女",
+    "sex": "여성",
     "characteristic": "不进行攻击，持续恢复攻击范围内所有友军的生命（每秒恢复相当于空攻击力10%的生命）",
     "tags": [
       "지원",
@@ -1072,9 +1072,9 @@
   {
     "name": "芙兰卡",
     "camp": "黑钢国际",
-    "type": "近卫",
+    "type": "근위대원",
     "level": 5,
-    "sex": "女",
+    "sex": "여성",
     "characteristic": "能够阻挡一个敌人",
     "tags": [
       "근거리",
@@ -1089,9 +1089,9 @@
   {
     "name": "幽灵鲨",
     "camp": "罗德岛",
-    "type": "近卫",
+    "type": "근위대원",
     "level": 5,
-    "sex": "女",
+    "sex": "여성",
     "characteristic": "同时攻击阻挡的所有敌人",
     "tags": [
       "근거리",
@@ -1106,9 +1106,9 @@
   {
     "name": "因陀罗",
     "camp": "维多利亚",
-    "type": "近卫",
+    "type": "근위대원",
     "level": 5,
-    "sex": "女",
+    "sex": "여성",
     "characteristic": "能够阻挡一个敌人",
     "tags": [
       "근거리",
@@ -1123,9 +1123,9 @@
   {
     "name": "陈",
     "camp": "龙门",
-    "type": "近卫",
+    "type": "근위대원",
     "level": 5,
-    "sex": "女",
+    "sex": "여성",
     "characteristic": "三测暂不实装",
     "tags": [
       "근거리",
@@ -1137,9 +1137,9 @@
   {
     "name": "拉普兰德",
     "camp": "罗德岛",
-    "type": "近卫",
+    "type": "근위대원",
     "level": 5,
-    "sex": "女",
+    "sex": "여성",
     "characteristic": "可以进行远程攻击，但此时攻击力降低至80%",
     "tags": [
       "근거리",
@@ -1154,9 +1154,9 @@
   {
     "name": "临光",
     "camp": "罗德岛",
-    "type": "重装",
+    "type": "중장대원",
     "level": 5,
-    "sex": "女",
+    "sex": "여성",
     "characteristic": "技能可以치료友方单位",
     "tags": [
       "근거리",
@@ -1171,9 +1171,9 @@
   {
     "name": "雷蛇",
     "camp": "黑钢国际",
-    "type": "重装",
+    "type": "중장대원",
     "level": 5,
-    "sex": "女",
+    "sex": "여성",
     "characteristic": "能够阻挡三个敌人",
     "tags": [
       "근거리",
@@ -1188,9 +1188,9 @@
   {
     "name": "火神",
     "camp": "罗德岛",
-    "type": "重装",
+    "type": "중장대원",
     "level": 5,
-    "sex": "女",
+    "sex": "여성",
     "characteristic": "无法被友方角色치료",
     "tags": [
       "근거리",
@@ -1206,9 +1206,9 @@
   {
     "name": "可颂",
     "camp": "企鹅物流",
-    "type": "重装",
+    "type": "중장대원",
     "level": 5,
-    "sex": "女",
+    "sex": "여성",
     "characteristic": "能够阻挡三个敌人",
     "tags": [
       "근거리",
@@ -1223,15 +1223,15 @@
   {
     "name": "推进之王",
     "camp": "维多利亚",
-    "type": "先锋",
+    "type": "선봉",
     "level": 6,
-    "sex": "女",
+    "sex": "여성",
     "characteristic": "能够阻挡两个敌人",
     "tags": [
       "근거리",
       "비용회복",
       "딜링",
-      "고급베테랑"
+      "전문가"
     ],
     "hidden": false,
     "name-en": "Siege",
@@ -1240,15 +1240,15 @@
   {
     "name": "闪灵",
     "camp": "罗德岛",
-    "type": "医疗",
+    "type": "의료대원",
     "level": 6,
-    "sex": "女",
+    "sex": "여성",
     "characteristic": "恢复友方单位生命",
     "tags": [
       "원거리",
       "지원",
       "치료",
-      "고급베테랑"
+      "전문가"
     ],
     "hidden": false,
     "name-en": "Shining",
@@ -1257,15 +1257,15 @@
   {
     "name": "夜莺",
     "camp": "罗德岛",
-    "type": "医疗",
+    "type": "의료대원",
     "level": 6,
-    "sex": "女",
+    "sex": "여성",
     "characteristic": "同时恢复三个友方单位的生命",
     "tags": [
       "원거리",
       "치료",
       "지원",
-      "고급베테랑"
+      "전문가"
     ],
     "hidden": false,
     "name-en": "Nightingale",
@@ -1274,9 +1274,9 @@
   {
     "name": "凯尔希",
     "camp": "罗德岛",
-    "type": "医疗",
+    "type": "의료대원",
     "level": 6,
-    "sex": "女",
+    "sex": "여성",
     "characteristic": "恢复友方单位生命、可以使用소환物协助作战",
     "tags": [
       "三测暂不实装"
@@ -1286,15 +1286,15 @@
   {
     "name": "伊芙利特",
     "camp": "莱茵生命实验室",
-    "type": "术师",
+    "type": "술사대원",
     "level": 6,
-    "sex": "女",
+    "sex": "여성",
     "characteristic": "攻击造成超远距离的群体法术伤害",
     "tags": [
       "원거리",
       "광역",
       "약화",
-      "고급베테랑"
+      "전문가"
     ],
     "hidden": false,
     "name-en": "Ifrit",
@@ -1303,15 +1303,15 @@
   {
     "name": "艾雅法拉",
     "camp": "卡普里尼",
-    "type": "术师",
+    "type": "술사대원",
     "level": 6,
-    "sex": "女",
+    "sex": "여성",
     "characteristic": "攻击造成法术伤害",
     "tags": [
       "원거리",
       "딜링",
       "약화",
-      "고급베테랑"
+      "전문가"
     ],
     "hidden": true,
     "name-en": "Eyjafjalla",
@@ -1320,14 +1320,14 @@
   {
     "name": "能天使",
     "camp": "企鹅物流",
-    "type": "狙击",
+    "type": "저격대원",
     "level": 6,
-    "sex": "女",
+    "sex": "여성",
     "characteristic": "优先攻击空中单位",
     "tags": [
       "원거리",
       "딜링",
-      "고급베테랑"
+      "전문가"
     ],
     "hidden": false,
     "name-en": "Exusiai",
@@ -1336,16 +1336,16 @@
   {
     "name": "安洁莉娜",
     "camp": "罗德岛",
-    "type": "辅助",
+    "type": "보조대원",
     "level": 6,
-    "sex": "女",
+    "sex": "여성",
     "characteristic": "攻击造成法术伤害，并对敌人造成短暂的停顿",
     "tags": [
       "원거리",
       "슬로우",
       "딜링",
       "지원",
-      "고급베테랑"
+      "전문가"
     ],
     "hidden": true,
     "name-en": "Angelina",
@@ -1354,15 +1354,15 @@
   {
     "name": "银灰",
     "camp": "谢拉格",
-    "type": "近卫",
+    "type": "근위대원",
     "level": 6,
-    "sex": "男",
+    "sex": "남성",
     "characteristic": "可以进行远程攻击，但此时攻击力降低至80%",
     "tags": [
       "근거리",
       "딜링",
       "지원",
-      "고급베테랑"
+      "전문가"
     ],
     "hidden": false,
     "name-en": "SilverAsh",
@@ -1371,15 +1371,15 @@
   {
     "name": "星熊",
     "camp": "龙门",
-    "type": "重装",
+    "type": "중장대원",
     "level": 6,
-    "sex": "女",
+    "sex": "여성",
     "characteristic": "能够阻挡三个敌人",
     "tags": [
       "근거리",
       "딜링",
       "보호",
-      "고급베테랑"
+      "전문가"
     ],
     "hidden": false,
     "name-en": "Hoshiguma",
@@ -1388,16 +1388,16 @@
   {
     "name": "塞雷娅",
     "camp": "莱茵生命实验室",
-    "type": "重装",
+    "type": "중장대원",
     "level": 6,
-    "sex": "女",
+    "sex": "여성",
     "characteristic": "技能可以치료友方单位",
     "tags": [
       "근거리",
       "지원",
       "보호",
       "치료",
-      "고급베테랑"
+      "전문가"
     ],
     "hidden": false,
     "name-en": "Saria",
