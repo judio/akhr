@@ -141,9 +141,7 @@
                 let row = '<tr><td><button class="btn btn-sm btn-info my-1" disabled>' + v[lang] + '</button></td><td>';
                 let tags_btn = []
                 for (let i = 0; i < v['kotags'].length; i++) {
-                    tags_btn.push('<button class="btn btn-sm btn-secondary btn-tag m-1" ' +
-                        //(lang === 'cn' ? '' : ('data-toggle="tooltip" data-placement="top" title="' + v[lang + 'tags'][i] + '"'))
-                        + '>' + v['kotags'][i] + "</button>");
+                    tags_btn.push('<button class="btn btn-sm btn-secondary btn-tag m-1">' + v['kotags'][i] + "</button>");
                 }
                 row += tags_btn.join("") + "</td></tr>";
                 $("#box-tags").append(row);
